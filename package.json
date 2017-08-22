@@ -1,7 +1,7 @@
 {
   "name": "graphql-pro",
   "version": "1.0.0",
-  "description": "JavaScript client for graphql-pro",
+  "description": "[Moved to graphql-ruby-client] ~~JavaScript client for graphql-pro~~",
   "main": "index.js",
   "repository": "https://github.com/rmosolgo/graphql-pro-js",
   "author": "Robert Mosolgo",
